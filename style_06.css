@@ -1,0 +1,67 @@
+/* b1: Thiết lập thông số chung */
+*{
+    font-family: "Noto Serif", serif;
+    font-size: 20px;
+    color: rgb(21, 20, 20);
+}
+
+.exercise-06 h3{
+    font-size: 34px;
+}
+
+.exercise-06 .syntax{
+    background-color:#fafafa;
+    color: #d6536f;
+}
+
+.exercise-06 .demo-figure{
+    border: 3px solid green;
+    text-align: center;
+    line-height: 4;
+}
+
+.exercise-06 .demo-code{
+    background-color: #e5e9ed;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+.demo-code h4{
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+
+.demo-code .code-content{
+    background-color: white;
+    border-left: 5px solid green;
+    padding: 5px;
+    
+}
+
+.code-content p:nth-child(1){
+    margin-top: 0px;  
+}
+
+.code-content p:nth-child(4){
+    margin-bottom: 0px;  
+}
+
+.code-content p:nth-child(2){
+    margin-left: 20px;  
+}
+
+.code-content p:nth-child(3){
+    margin-left: 20px;  
+}
+
+.demo-code .code-button{
+    background-color: #04a86c;
+    color: #ceece0;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    /* bo tròn cạnh */
+    border-radius: 8px;
+    border: 0px;
+}

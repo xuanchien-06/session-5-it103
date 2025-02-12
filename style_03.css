@@ -1,0 +1,36 @@
+* {
+    color: #2c3f50;
+    text-align: center;
+    padding: 20px;
+}
+
+.demo-table {
+    border-collapse: collapse;
+    background-color: #f4f4f4;
+}
+
+/* 
+.demo-tieude{
+    color: #2c3f50;
+} */
+
+.demo-table tr:nth-child(2) {
+    background-color: #027bff;
+    color: #ffffff;
+}
+
+.demo-table tr:nth-child(4) {
+    background-color: #ffffff;
+}
+
+th {
+    color: #2c3f50;
+}
+
+.demo-table td {
+    border: 1px solid #d1d8df;
+}
+
+/* .demo-table th{
+    border: 1px solid red;
+} */
