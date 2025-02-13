@@ -1,0 +1,23 @@
+*{
+    font-family: "Noto Sans", serif;
+}
+h2{
+    color: cornflowerblue;
+}
+
+.CSS-example{
+    font-size: 18px;
+}
+ 
+.demo-body2{
+    background-color: #fffaef;
+    border-left: 10px solid #e0ca4c;
+    padding: 5px;
+}
+
+.demo-h{
+    font-weight: lighter;
+    line-height: 1px;
+}
+
+

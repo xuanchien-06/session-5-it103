@@ -2,3 +2,15 @@ img{
     float: left;
     margin-right: 20px;
 }
+
+.demo-time{
+    color: #8e8e8e;
+}
+
+.demo-cline{
+    color: #464a62;
+}
+
+.demo-body{
+    color: #565656;
+}
